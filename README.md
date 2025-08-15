@@ -1,0 +1,1 @@
+##Especificaciones Taller Patrones Creacionales 
