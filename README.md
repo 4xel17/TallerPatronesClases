@@ -1,4 +1,7 @@
 ## Especificaciones Taller Patrones Creacionales 
+Hecho por: 
+Axel Bedoya
+Sara Zuluaga
 
 ### 🍕 Pizza Factory
 El programa funciona mediante un menú.  
