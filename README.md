@@ -11,7 +11,7 @@ Al ejecutarse, te pedirá que elijas el tipo de masa que deseas: **gruesa**, **i
 [`PreparadorPizza.java`](DYAS-GoF-CreationalPatterns-PizzaFactory/src/main/java/PreparadorPizza.java)
 
 
-
+UML: 
 [Actividad_Pizzas.pdf](https://github.com/user-attachments/files/21844463/Actividad_Pizzas.pdf)
 
 
@@ -40,6 +40,8 @@ En este archivo debes especificar una de las siguientes opciones para cambiar el
 
 👉 El programa se ejecuta por:  
 [`Game.java`](DYAS-GoF-CreationalPatterns-GameRefactoring/src/main/java/com/balitechy/spacewar/main/Game.java)
+
+UML:
 [Activida_Factory.pdf](https://github.com/user-attachments/files/21844466/Activida_Factory.pdf)
 
 
