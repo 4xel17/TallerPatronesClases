@@ -10,8 +10,12 @@ Al ejecutarse, te pedirá que elijas el tipo de masa que deseas: **gruesa**, **i
 👉 El programa se ejecuta por:  
 [`PreparadorPizza.java`](DYAS-GoF-CreationalPatterns-PizzaFactory/src/main/java/PreparadorPizza.java)
 
----
 
+
+[Actividad_Pizzas.pdf](https://github.com/user-attachments/files/21844463/Actividad_Pizzas.pdf)
+
+
+---
 ### 🎮 Game Refactoring
 Este programa funciona mediante un archivo de configuración ubicado en:  
 [`config.properties`](DYAS-GoF-CreationalPatterns-GameRefactoring/src/main/resources/config.properties)
@@ -36,4 +40,7 @@ En este archivo debes especificar una de las siguientes opciones para cambiar el
 
 👉 El programa se ejecuta por:  
 [`Game.java`](DYAS-GoF-CreationalPatterns-GameRefactoring/src/main/java/com/balitechy/spacewar/main/Game.java)
+[Activida_Factory.pdf](https://github.com/user-attachments/files/21844466/Activida_Factory.pdf)
+
+
   
